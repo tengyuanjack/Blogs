@@ -1,6 +1,6 @@
 # Blogs
 Just Write Down Somethings
-## TABLE CONTENT
+## TABLE OF CONTENTS
 ### Java
 ### Design Pattern
 ### Tools
