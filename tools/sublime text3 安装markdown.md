@@ -9,7 +9,7 @@
 		"C:\\sublime\\channel_v3.json" // 本地路径
 	]
 ```
-channel_v3.json从官网上下载的文件，见[channel_v3.json](Blogs/attachments/files/sublime/channel_v3.json)
+channel_v3.json从官网上下载的文件，见[channel_v3.json](https://github.com/tengyuanjack/Blogs/blob/master/attachments/files/sublime/channel_v3.json)
 
 #### 安装插件
 1. 使用```Ctrl + Shift + p```调出命令模式，输入```Package Control: install ```，回车进入后，依次安装：```MarkdownEditing```，```MarkdownPreview```, ```LiveReload```。
